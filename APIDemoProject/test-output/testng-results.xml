@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-12T16:42:41 GMT-05:00" name="Suite" finished-at="2023-07-12T16:42:48 GMT-05:00" duration-ms="7838">
+    <groups>
+    </groups>
+    <test started-at="2023-07-12T16:42:41 GMT-05:00" name="Test" finished-at="2023-07-12T16:42:48 GMT-05:00" duration-ms="7838">
+      <class name="org.testing.apitesting.testScripts.TestCase6_UpdateUsingPut">
+        <test-method signature="testCase6_updateallDetails()[pri:0, instance:org.testing.apitesting.testScripts.TestCase6_UpdateUsingPut@66f57048]" started-at="2023-07-12T16:42:43 GMT-05:00" name="testCase6_updateallDetails" finished-at="2023-07-12T16:42:43 GMT-05:00" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6_updateallDetails -->
+      </class> <!-- org.testing.apitesting.testScripts.TestCase6_UpdateUsingPut -->
+      <class name="org.testing.apitesting.testScripts.TestCase5_UpdateStudentName">
+        <test-method signature="testCase5_updateStudentName()[pri:0, instance:org.testing.apitesting.testScripts.TestCase5_UpdateStudentName@4dbb42b7]" started-at="2023-07-12T16:42:43 GMT-05:00" name="testCase5_updateStudentName" finished-at="2023-07-12T16:42:43 GMT-05:00" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5_updateStudentName -->
+      </class> <!-- org.testing.apitesting.testScripts.TestCase5_UpdateStudentName -->
+      <class name="org.testing.apitesting.testScripts.TestCase1_PostStudent">
+        <test-method signature="testCase1_Student()[pri:0, instance:org.testing.apitesting.testScripts.TestCase1_PostStudent@57cf54e1]" started-at="2023-07-12T16:42:41 GMT-05:00" name="testCase1_Student" finished-at="2023-07-12T16:42:43 GMT-05:00" duration-ms="2442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1_Student -->
+      </class> <!-- org.testing.apitesting.testScripts.TestCase1_PostStudent -->
+      <class name="org.testing.apitesting.testScripts.TestCase4_GetParticularStudent">
+        <test-method signature="testCase4_getaStudent()[pri:0, instance:org.testing.apitesting.testScripts.TestCase4_GetParticularStudent@2c1b194a]" started-at="2023-07-12T16:42:43 GMT-05:00" name="testCase4_getaStudent" finished-at="2023-07-12T16:42:43 GMT-05:00" duration-ms="118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4_getaStudent -->
+      </class> <!-- org.testing.apitesting.testScripts.TestCase4_GetParticularStudent -->
+      <class name="org.testing.apitesting.testScripts.TestCase7_DeleteStudent">
+        <test-method signature="deleteStdnt()[pri:0, instance:org.testing.apitesting.testScripts.TestCase7_DeleteStudent@550dbc7a]" started-at="2023-07-12T16:42:43 GMT-05:00" name="deleteStdnt" finished-at="2023-07-12T16:42:48 GMT-05:00" duration-ms="5048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteStdnt -->
+      </class> <!-- org.testing.apitesting.testScripts.TestCase7_DeleteStudent -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
